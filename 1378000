@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Juegos - Minecraft y Ark Mobile</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Juegos</h1>
+      <nav>
+        <ul>
+          <li><a href="#minecraft">Minecraft</a></li>
+          <li><a href="#ark-mobile">Ark Mobile</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="minecraft">
+        <h2>Minecraft</h2>
+        <ul>
+          <li><a href="#">Tutorial 1</a></li>
+          <li><a href="#">Tutorial 2</a></li>
+          <li><a href="#">Tutorial 3</a></li>
+        </ul>
+      </section>
+      <section id="ark-mobile">
+        <h2>Ark Mobile</h2>
+        <ul>
+          <li><a href="#">Tutorial 1</a></li>
+          <li><a href="#">Tutorial 2</a></li>
+          <li><a href="#">Tutorial 3</a></li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>
